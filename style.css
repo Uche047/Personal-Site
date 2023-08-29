@@ -144,7 +144,7 @@ p span {
 a {
     text-decoration-line: none;
     color: #75a375;
-    padding: 4em;
+    padding: 2em;
 }
 
 
@@ -312,7 +312,7 @@ a {
 
     #project-description {
         width: auto;
-        padding: 4em 3em;
+        padding: 3em 1em 3em 0.7em;
         
     }
 
@@ -339,7 +339,7 @@ a {
     a {
         text-decoration-line: none;
         color: #75a375;
-        padding: 4em 2em;
+        padding: 2em;
     }
 
 
